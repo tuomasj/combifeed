@@ -1,5 +1,5 @@
 <?php
-include 'lib/combifeed/combifeed.php';
+include 'combifeed/combifeed.php';
 
 $STREAMS = array(
     array('type' => 'github', 'url' => 'http://github.com/tuomasj.atom'),
