@@ -20,6 +20,8 @@ class StreamParser
                 return new GithubParser( $func, $url );
             case 'twitter':
                 return new TwitterParser( $func, $url );
+            case 'flickr':
+                return new FlickrParser( $func, $url );
             }
         }
 

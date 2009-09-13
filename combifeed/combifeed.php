@@ -6,6 +6,7 @@ include_once dirname(__FILE__).'/TimelineStream.inc.php';
 include_once dirname(__FILE__).'/AbstractParser.inc.php';
 include_once dirname(__FILE__).'/parsers/GithubParser.inc.php';
 include_once dirname(__FILE__).'/parsers/TwitterParser.inc.php';
+include_once dirname(__FILE__).'/parsers/FlickrParser.inc.php';
 //
 // combifeed
 //
