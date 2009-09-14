@@ -1,3 +1,11 @@
+Combifeed
+================================================
+
+Combifeed is mainly made for coders who don't want to
+create content for their website. 
+
+Currently supporting flickr, twitter and github rss streams.
+
 See working demo at http://www.jomppanen.com
 
-
+Requires PHP 5
