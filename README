@@ -1,11 +1,46 @@
 Combifeed
 ================================================
 
-Combifeed is mainly made for coders who don't want to
-create content for their website. 
+I wasn't happy with my web site. I didn't like
+the code I wrote for it. Updating my web site
+was just too time consuming.
 
-Currently supporting flickr, twitter and github rss streams.
+I wanted a web site, which would be extremely
+easy to keep up to date. Naturally, I thought
+about writing a new one from scratch. I takes
+time and I want to have a update on my web site
+today, not in few weeks.
 
-See working demo at http://www.jomppanen.com
+So I started to look through CMS's. There are
+lots of systems that manage content! And every
+CMS has their pro's and con's, but it takes
+time to find a system which suits me the best.
+
+I started wondering why I'm going though all
+this trouble,when I'm not planning to have
+lots of test on my web site. I don't planning
+to start a blog or write articles. So where
+I'm gonna get something to fill my website?
+
+Of course from GitHub! And Twitter! And Flickr! And
+every other web application which provides a public
+RSS feed!
+
+Combifeed will fetch your RSS feeds and combines
+them into one feed. You can visualize the feed
+in any way you like.
+
+================================================
+
+Currently supporting rss feeds from:
+- Flickr
+- Twitter
+- GitHub
+
+Check out "example.php" to see how it works.
+And see working demo at http://www.jomppanen.com
+
+Latest version can be found here:
+http://github.com/tuomasj/combifeed
 
 Requires PHP 5
